@@ -12,7 +12,7 @@ The city of Chicago released a dataset of socioeconomic data to the Chicago City
 
 Scores on the hardship index can range from 1 to 100, with a higher index number representing a greater level of hardship.
 
-A detailed description of the dataset can be found on the city of Chicago's website, but to summarize, the dataset has the following variables:
+A detailed description of the dataset can be found on [the city of Chicago's website](https://data.cityofchicago.org/Health-Human-Services/Census-Data-Selected-socioeconomic-indicators-in-C/kn9c-c2s2), but to summarize, the dataset has the following variables:
 
 - Community Area Number (ca): Used to uniquely identify each row of the dataset
 
